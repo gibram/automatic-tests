@@ -1,2 +1,2 @@
 # automatic-tests
-some automatic testes source code
+some automatics tests source code
